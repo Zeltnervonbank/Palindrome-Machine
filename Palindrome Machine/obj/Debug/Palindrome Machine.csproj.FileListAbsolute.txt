@@ -1,0 +1,7 @@
+C:\Users\aszel\source\repos\Palindrome Machine\Palindrome Machine\bin\Debug\Palindrome Machine.exe.config
+C:\Users\aszel\source\repos\Palindrome Machine\Palindrome Machine\bin\Debug\Palindrome Machine.exe
+C:\Users\aszel\source\repos\Palindrome Machine\Palindrome Machine\bin\Debug\Palindrome Machine.pdb
+C:\Users\aszel\source\repos\Palindrome Machine\Palindrome Machine\obj\Debug\Palindrome Machine.csprojAssemblyReference.cache
+C:\Users\aszel\source\repos\Palindrome Machine\Palindrome Machine\obj\Debug\Palindrome Machine.csproj.CoreCompileInputs.cache
+C:\Users\aszel\source\repos\Palindrome Machine\Palindrome Machine\obj\Debug\Palindrome Machine.exe
+C:\Users\aszel\source\repos\Palindrome Machine\Palindrome Machine\obj\Debug\Palindrome Machine.pdb
